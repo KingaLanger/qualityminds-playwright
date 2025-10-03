@@ -97,5 +97,3 @@ or headed ( when you see how the test is running)
 Single file with tests - here home.spec.ts:
 
 `npx playwright test home.spec.ts`
-
-THE END
